@@ -1,5 +1,5 @@
 {
-  "name": "webhiroba",
+  "name": "webplayground",
   "version": "1.0.0",
   "description": "アカウント、ゲームIDを作成せず、気軽にWeb上で集団でゲームをします。",
   "main": "server.js",
